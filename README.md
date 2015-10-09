@@ -1,5 +1,5 @@
 # web_ysmrk
 
 ## about
-  * Kazumi Yoshimura's homepage
+  * Kazumi Yoshimura's website
     - http://ysmrk.net/
